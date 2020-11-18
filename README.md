@@ -1,5 +1,5 @@
 ## Test case store
-- Main service allow configure an store with all the required initial extensions.
+- Main service allow to configure an store with all the required initial extensions.
 - Modules can be extended by adding more entities which can be configured and persisted in memory repository.
 - The system contains 2 main entities to manage the store: Item and Order
 
